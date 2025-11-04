@@ -1,4 +1,4 @@
-# Customer Behaviour & Shopping Analysis
+# Customer Behavior & Shopping Analysis
 
 A machine learning project that predicts the most sold product category based on consumer behavior and shopping patterns.
 
